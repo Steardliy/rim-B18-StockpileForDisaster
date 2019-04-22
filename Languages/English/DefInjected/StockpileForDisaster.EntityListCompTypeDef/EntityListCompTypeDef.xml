@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <TypeOnlyRecieve.label>Allow to take</TypeOnlyRecieve.label>
-  <TypeOnlyRecieve.description>When this checkbox is enabled, restriction settings are ignored.</TypeOnlyRecieve.description>
-
+  <TypeOnlyRecieve.label>Anyone may take</TypeOnlyRecieve.label>
+  <TypeOnlyRecieve.description>When you enable this checkbox, Restriction settings will be ignored: anyone may take things from here.</TypeOnlyRecieve.description>
 </LanguageData>
