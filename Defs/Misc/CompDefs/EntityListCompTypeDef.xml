@@ -3,8 +3,8 @@
 <Defs>
   <StockpileForDisaster.EntityListCompTypeDef>
     <defName>TypeOnlyRecieve</defName>
-    <label>Allow to take</label>
-    <description>When this checkbox is enabled, restriction settings are ignored.</description>
+    <label>Anyone may take</label>
+    <description>When you enable this checkbox, Restriction settings will be ignored: anyone may take things from here.</description>
   </StockpileForDisaster.EntityListCompTypeDef>
 
 </Defs>
